@@ -1,0 +1,15 @@
+@mixin yellow-header {
+  margin-top: 70px;
+
+  > div {
+    &:first-child {
+      background: $color-yellow;
+    }
+  }
+
+  h2 {
+    font: normal normal bold normal 3.125rem 'Roboto';
+    padding: 10px 0;
+    text-align: center;
+  }
+}

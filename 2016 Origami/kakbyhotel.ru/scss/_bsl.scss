@@ -1,0 +1,19 @@
+@mixin container($width) {
+  margin: auto;
+  width: $width;
+}
+
+@mixin fontface($path, $name, $font-weight: normal, $woff: false, $woff2: false, $eot: false, $ttf: false) {
+  @font-face {
+    font-family: $name;
+    @if $woff { src: url('#{$path}.woff') format('woff'); }
+    @if $woff2 { src: url('#{$path}.woff2') format('woff2'); }
+    @if $eot { src: url('#{$path}.eot') format('embedded-opentype'); }
+    @if $ttf { src: url('#{$path}.ttf') format('truetype'); }
+    font-weight: $font-weight;
+  }
+}
+
+@function set-color($r, $g, $b, $a: 1) {
+  @return rgba($r, $g, $b, $a);
+}

@@ -1,0 +1,826 @@
+html {
+  font-size: 16px; }
+
+.empty_field {
+  border: 1px solid red !important; }
+
+.main-text {
+  margin: auto;
+  width: 90%; }
+
+header {
+  background: url("../images/header_background2.jpg") center center;
+  background-size: cover;  
+  font: normal normal bold normal 1.25rem 'Roboto Condensed';
+  height: 525px; }
+
+.header__contacts {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 15px 0; }
+  .header__contacts h1 {
+    color: white;
+    float: left;
+    font-weight: bold; }
+  .header__contacts p {
+    color: white;
+    float: right;
+    font-weight: bold;
+    margin-left: 25px; }
+    .header__contacts p span {
+      font-size: .875rem;
+      font-weight: bold; }
+  .header__contacts img {
+    width: 35px; }
+
+.header__intro > div {
+  display: inline-block;
+  float: left;
+  text-align: center; }
+  .header__intro > div:first-child {
+    margin-left: 90px; }
+  .header__intro > div:last-child {
+    margin: 70px 0 0 100px;
+    width: 290px; }
+  .header__intro > div h2 {
+    color: #ffde00;
+    font-size: 4.2rem;
+    font-weight: bold;
+    margin: 70px 0 20px;
+    text-shadow: 2px 2px 5px black; }
+  .header__intro > div input {
+    border: 1px solid transparent;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 95%; }
+    .header__intro > div input::-webkit-input-placeholder {
+      color: black;
+      font-style: italic; }
+    .header__intro > div input::-moz-placeholder {
+      color: black;
+      font-style: italic; }
+    .header__intro > div input:-moz-placeholder {
+      color: black;
+      font-style: italic; }
+    .header__intro > div input:-ms-input-placeholder {
+      color: black;
+      font-style: italic; }
+  .header__intro > div p {
+    color: white;
+    font-size: 1.5625rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px black; }
+    .header__intro > div p:first-of-type {
+      font-size: 1.7rem; }
+    .header__intro > div p:last-of-type {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-flow: row nowrap;
+          -ms-flex-flow: row nowrap;
+              flex-flow: row nowrap;
+      -webkit-justify-content: space-around;
+          -ms-flex-pack: distribute;
+              justify-content: space-around; }
+    .header__intro > div p span {
+      font-weight: bold;
+      text-shadow: 2px 2px 5px black; }
+  .header__intro > div button {
+    background: #ffde00;
+    border: 0;
+    border-radius: 25px;
+    box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.7);
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px 15px;
+    width: 100%; }
+
+.situations h2 {
+  font-size: 3.3em;
+  font-weight: bold;
+  margin: 60px 0;
+  text-align: center; }
+
+.situations__features {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
+  .situations__features img {
+    width: 100%; }
+  .situations__features div {
+    margin-bottom: 45px;
+    min-width: 170px;
+    text-align: center;
+    width: 23%; }
+  .situations__features p {
+    font-family: 'Roboto Condensed';
+    font-size: 1.3rem; }
+
+.big_image img {
+  margin: 60px 0;
+  width: 100%; }
+
+.time {
+  margin-top: 70px; }
+  .time > div:first-child {
+    background: #ffde00;
+    padding-bottom: 20px; }
+    .time > div:first-child p {
+      font: normal normal bold normal 2rem 'Roboto';
+    font-size: 2rem;
+        font-weight: bold;
+      text-align: center; }
+  .time h2 {
+  font-size: 3.125rem;
+  font-weight: bold;
+    padding: 10px 0;
+    text-align: center; }
+
+.time__map {
+  margin: 50px auto 30px; }
+  .time__map img {
+    float: left;
+    margin-right: 90px;
+    width: 650px; }
+  .time__map p {
+    font: normal normal normal normal 1.125rem 'Roboto';
+    overflow: hidden;
+    font-size: 1.125rem;}
+    .time__map p:first-of-type {
+      font-size: 1.5rem; }
+
+.time__explain {
+  margin: auto;
+  width: 850px;
+  border: 1px solid transparent;
+  text-align: right; }
+  .time__explain img {
+    -webkit-filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7));
+    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7));
+    float: right;
+    margin-left: 30px;
+    width: 200px; }
+  .time__explain p {
+    font: normal normal bold normal 1.3125rem 'Roboto Condensed';
+      font-size: 1.25rem;
+      font-weight: bold;
+    overflow: hidden; }
+    .time__explain p span {
+      font-size: 1.875rem;
+      font-weight: bold; }
+    .time__explain p:first-of-type {
+      margin-top: 40px; }
+
+.car {
+  background: url("../images/BG2.jpg");
+  border: 1px solid transparent;
+  height: 600px;
+  margin-top: 100px; }
+
+.car__content h2 {
+  color: white;
+  font-size: 3.7rem;
+  font-weight: bold;
+  margin: 50px 0;
+  text-align: center; }
+.car__content img {
+  float: left;
+width: 60%;}
+.car__content p {
+  color: white;
+  font: normal normal bold normal 1.6rem 'Roboto Condensed';
+  font-size: 1.6rem;
+  font-weight: bold;
+  left: -50px;
+  position: relative;
+  text-align: center; }
+  .car__content p:last-of-type {
+    font-size: 1.3rem;
+    font-weight: normal; }
+
+.work {
+  margin: 70px auto; }
+  .work h2 {
+  font-size: 3.125em;
+  font-weight: bold;
+    padding: 10px 0;
+    text-align: center; }
+
+.work__aspects {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+      -ms-flex-flow: row nowrap;
+          flex-flow: row nowrap;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  margin-top: 50px; }
+  .work__aspects div {
+    text-align: center;
+    width: 24%; }
+    .work__aspects div p {
+      font: normal normal normal normal 1.3125rem 'Roboto Condensed';
+      font-size: 1.125rem; }
+    .work__aspects div img {
+        width: 150px;
+        height: 150px; }
+
+.bus {
+  margin-top: 70px; }
+  .bus > div:first-child {
+    background: #ffde00; }
+  .bus h2 {
+  font-size: 3.125em;
+  font-weight: bold;
+    padding: 10px 0;
+    text-align: center; }
+
+.bus__content {
+  font-family: 'Roboto Condensed';
+  margin-top: 50px; }
+  .bus__content > div {
+    float: left; }
+    .bus__content > div:first-child {
+      text-align: center;
+      width: 480px; }
+      .bus__content > div:first-child p {
+        font-weight: bold;
+        font-size: 1.875rem; }
+        .bus__content > div:first-child p:last-of-type {
+          font-size: 1.125rem; }
+      .bus__content > div:first-child span {
+        font-size: 1.125rem;
+        font-weight: bold; }
+
+.bus__rent {
+  text-align: center;
+  width: 680px; }
+  .bus__rent p {
+    display: inline-block;
+    font-size: 1.875rem;
+    font-weight: bold;
+    margin-bottom: 50px; }
+
+.bus__rent__services {
+  margin: auto;
+  width: 650px; }
+  .bus__rent__services div {
+    display: inline-block;
+    width: 290px; }
+  .bus__rent__services p {
+    display: inline-block;
+    float: left;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 35px 0 0 15px; }
+  .bus__rent__services img {
+    float: left;
+    width: 90px; }
+
+footer {
+  background: url("../images/footer.jpg") center center;
+  background-size: cover;
+  border-bottom: 1px solid transparent;
+  padding-top: 70px; }
+  footer > div:last-child {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 40px; }
+
+.footer__contacts {
+  float: left;
+  font-family: 'Roboto Condensed';
+  text-align: center; }
+
+.footer-head p {
+    color: #fff;
+    font-size: 1.4375rem;
+    text-align: center;    
+    font-weight: bold; }   
+
+    .footer-head p:nth-child(2) {
+      font-size: 1.875rem;
+      margin: 20px 0; 
+    }
+
+  .footer__contacts p {
+    color: white;
+    font-size: 1.4375rem;
+    font-weight: bold; }
+    .footer__contacts p:last-child {
+      font-weight: normal;
+      margin-top: 20px; }
+      .footer__contacts p:last-child img {
+        width: 35px; }
+  .footer__contacts span {
+    font-size: 1.125rem;
+    font-weight: bold; }
+
+.footer__form {
+  float: right;
+  margin-left: 150px;
+  width: 250px; }
+  .footer__form input {
+    border: 1px solid transparent;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 95%; }
+    .footer__form input::-webkit-input-placeholder {
+      color: black;
+      font-style: italic; }
+    .footer__form input::-moz-placeholder {
+      color: black;
+      font-style: italic; }
+    .footer__form input:-moz-placeholder {
+      color: black;
+      font-style: italic; }
+    .footer__form input:-ms-input-placeholder {
+      color: black;
+      font-style: italic; }
+  .footer__form button {
+    background: #ffde00;
+    border: 0;
+    border-radius: 25px;
+    box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.7);
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px 15px;
+    width: 100%; }
+
+.footer__logo a {
+  position: relative;
+  top: -25px; }
+
+#modal {
+  color: black; }
+
+.main-container {
+    width: 100%;
+    padding: 0;
+}
+
+.time__explain {
+    margin-top: 20px;
+}
+
+.car-mob,
+.show-mob-head,
+.link-mob,
+.map-mob,
+.car-mid,
+.vk-foot-mob {
+    display: none;
+}
+
+footer a,
+footer a:hover,
+.link-mob,
+.link-mob:hover {
+    color: #fff;
+}
+
+.time__explain p {
+    text-transform: uppercase;
+}
+
+.footer__form {
+    margin-left: 0;
+}
+
+@media screen and (max-width: 1200px) {
+    .header__intro > div:first-child {
+        margin-left: 0;
+    }
+    
+    .maps {
+        width: 58%;
+        float: left;
+        margin-right: 15px;
+    }
+    
+    .text-map {
+        width: 40%;
+        float: right;
+    }
+    
+    .time__explain {
+        float: left;
+    }
+    
+    .time__map {
+        width: 100%;
+    }
+    
+    .time__map img {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .time__explain img {
+        display: none;
+    }
+    
+    .time__explain {
+        width: 58%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .header-info {
+        width: 100%;
+    }
+    
+    .form-zakaz {
+        width: 100%;
+    }
+    
+    .header__intro > div:first-child {
+        margin-left: 0;
+    }
+    
+    .header__intro > div p:last-of-type {
+        display: block;
+    }
+    
+    .header__intro > div p span {
+        padding: 0 30px;
+    }
+    
+    .header__intro > div input,
+    .header__intro > div button {
+        width: 50%;
+    }
+    
+    .header__intro > div:last-child {
+        margin: 20px auto;
+        width: 100%;
+    }
+    
+    .big_image {
+        display: none;
+    }
+    
+    .time__map .maps {
+        width: 100%;
+        margin-right: 0;
+    }
+    
+     .time__map .maps img {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .text-map {
+        float: right;
+        margin-top: 15px;
+        width: 50%;
+    }
+    
+    .time__explain {
+        width: 50%;
+        float: left;
+    }
+    
+    .time__explain img {
+        width: auto;
+        margin: 20px auto 0 auto;
+        padding: 0 50px;
+    }
+    
+    .time__explain p {
+        float: left;
+        text-align: center;
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+    
+    .time > div:first-child p {
+        font-size: 25px;
+    }
+    
+    .time__explain p span,
+    .time__explain p,
+    .time__explain p:first-of-type {
+        font-size: 22px;
+    }
+    
+    .situations h2 {
+        font-size: 2.3rem;
+        margin: 30px 0;
+    }
+    
+    .car__content h2,
+    .yellow-zag h2,
+    .work h2 {
+        font-size: 2.3rem;
+    }
+    
+    .time__explain img {
+        display: block;
+        width: 50%;
+        float: none;
+        margin-top: 5px;
+    }
+            
+    .car {
+        margin-top: 30px;
+        background: url(../images/BG%20BLUE.jpg) center center;
+        background-size: cover;
+    }
+    
+    .car img {
+        float: none;
+        margin: 25px auto 0 auto;
+        width: 80%;
+    }
+    
+    .car-desk {
+        display: none;
+    }
+    
+    .car-mob {
+        display: block;
+    }
+    
+    .car__content h2 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .car__content {
+        width: 100%;
+    }
+    
+    .car__content p {
+        left: 0;
+    }
+    
+    .work__aspects div {
+        width: 48%;
+        float: left;
+        margin-bottom: 20px;
+    }
+    
+    .work__aspects {
+        display: block;
+        padding: 0;
+    }
+    
+    .work__aspects div img {
+        width: 80%;
+    }
+    
+    .work {
+        margin: 20px 0;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .time__explain img {
+        width: 85%;
+    }
+    
+    .time__explain p:first-of-type {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .time__explain img {
+        width: 100%;
+    }
+    
+    .time__explain p:first-of-type {
+        margin-top: 40px;
+    }
+    
+    .car img {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 650px) {
+    .header__contacts,
+    .situations__features img,
+    .situations__features br,
+    .car-mob {
+        display: none;
+    }
+    
+    .link-mob,
+    .car-mid {
+        display: block;
+        text-align: center;
+    }
+           
+    .link-mob img {
+        width: 35px;
+    }
+    
+    .situations__features div {
+        width: 100%;
+        margin: 0;
+        text-align: left;
+        float: none;
+    }
+    
+    .situations__features p {
+        display: list-item;
+        list-style: initial;
+        margin-left: 20px;
+    }
+    
+    .situations__features {
+        margin: 0 auto;
+        display: table;
+    }
+    
+    .car img.car-mid {
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+    
+    .car {
+        height: 530px;
+    }
+    
+    .work__aspects div {
+        width: 100%;
+    }
+    
+    .work__aspects div p {
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .footer__contacts,
+    .footer__form {
+        width: 100%;
+    }
+    
+    .footer__form input,
+    .footer__form button {
+        width: 70%;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+    
+    .vk-foot-mob {
+        display: block;
+        margin: 15px auto;
+        text-align: center;
+    }
+    
+    .vk-foot-mob img {
+        width: 35px;
+    }
+    
+    .vk-foot-desk,
+    .footer__form br {
+        display: none;
+    }
+    
+    .footer__form {
+        margin: 25px 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .map-desk,
+    .time__explain img {
+        display: none;
+    }
+    
+    .map-mob {
+        display: block;
+        width: 100%;
+    }
+    
+    .map-mob p:first-child {
+        text-align: center;
+        margin: 15px 0;
+    }
+    
+    .map-mob p {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    
+    .time__explain {
+        width: 100%;
+    }
+    
+    .time__explain p {
+        text-transform: none;
+    }
+    
+    .time__explain {
+        width: 70%;
+        display: table;
+        float: none;
+    }
+    
+/*
+    .car__content h2 {
+  font-size: 3em;
+  font-weight: bold;   
+    }
+*/
+}
+
+@media screen and (max-width: 550px) {
+    .show-mob-head,
+    .link-mob {
+        display: block;
+        text-align: center;
+    }
+    
+    .show-desk-head {
+        display: none;
+    }
+
+    
+    .header__intro > div h2 {
+        margin: 30px 0 10px;
+    }
+    
+    header {
+        height: 600px;
+    }
+    
+    .header__intro > div {
+        float: none;
+        width: 100%;
+    }
+    
+    .link-mob {
+        margin-top: 20px;
+    }
+    
+    .header__intro > div input,
+    .header__intro > div button {
+        width: 80%;
+    }
+    
+    .header__intro > div p {
+        margin-bottom: 0;
+    }
+    
+    .form-zakaz {
+        margin-top: 10px;
+    }
+    
+    div.show-mob-head > p:nth-child(3) {
+        margin-bottom: 10px;
+    }
+    
+    .header__intro {
+        padding: 0;
+    }
+
+    .footer__form input,
+    .footer__form button {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .time__explain {
+        width: 100%;
+    }
+    
+    .car__content p:last-of-type {
+        width: 61%;
+        margin: 0 auto;
+    }
+    
+/*
+    .car__content h2 {
+  font-size: 2em;
+  font-weight: bold;   
+    }
+*/
+    
+    .car__content p {
+        font-size: 1.4rem;
+    }
+    
+    .car {
+        height: 450px;
+    }
+}

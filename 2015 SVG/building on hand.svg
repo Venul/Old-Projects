@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1099.5 984.4" style="enable-background:new 0 0 1099.5 984.4;" xml:space="preserve">
+    	<script src="js/jquery.js"></script>
+<style type="text/css">
+	.st0{fill:#0071BC;}
+	.st1{fill:#80CAD9;}
+	.st2{opacity:0.2;fill:#0071BC;}
+	.st3{opacity:0.35;}
+	.st4{fill:#B6E1E9;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:url(#XMLID_185_);}
+	.st7{fill:url(#XMLID_186_);}
+	.st8{fill:#0D1272;}
+	.st9{fill:url(#XMLID_187_);}
+	.st10{fill:#DAEFF4;}
+	.st11{fill:#192782;}
+</style>
+<g id="Layer_3">
+	<g id="XMLID_164_">
+		<g id="XMLID_173_" >
+<!--1-->
+            <line x1="-24.8" y1="706.9" x2="-24.8" y2="706.9" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="706.9" to="352.3" begin="0.8s" dur="0.6s" fill="freeze"/>
+                <animate attributeName="x2" from="-24.8" to="375.9" begin="0.8s" dur="0.6s" fill="freeze"/>
+            </line>
+<!--2-->
+            <line x1="375.9" y1="352.3" x2="375.9" y2="352.3" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="352.3" to="386" begin="1.4s" dur="0.2s" fill="freeze"/>
+                <animate attributeName="x2" from="375.9" to="419.7" begin="1.4s" dur="0.2s" fill="freeze"/>
+            </line>
+<!--3-->
+            <line x1="419.7" y1="386" x2="419.7" y2="386" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="386" to="316.1" begin="1.6s" dur="0.3s" fill="freeze"/>
+                <animate attributeName="x2" from="419.7" to="512.8" begin="1.6s" dur="0.3s" fill="freeze"/>
+            </line>
+<!--4-->
+            <line x1="512.8" y1="316.1" x2="512.8" y2="316.1" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="316.1" to="382.3" begin="1.9s" dur="0.3s" fill="freeze"/>
+                <animate attributeName="x2" from="512.8" to="567.1" begin="1.9s" dur="0.3s" fill="freeze"/>
+            </line>
+<!--5-->
+            <line x1="567.1" y1="382.3" x2="567.1" y2="382.3" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="382.3" to="261.6" begin="2.2s" dur="0.3s" fill="freeze"/>
+                <animate attributeName="x2" from="567.1" to="714.2" begin="2.2s" dur="0.3s" fill="freeze"/>
+            </line>
+<!--6-->
+            <line x1="714.2" y1="261.6" x2="714.2" y2="261.6" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="261.6" to="328.8" begin="2.5s" dur="0.2s" fill="freeze"/>
+                <animate attributeName="x2" from="714.2" to="755.3" begin="2.5s" dur="0.2s" fill="freeze"/>
+            </line>
+<!--7-->
+            <line x1="755.3" y1="328.8" x2="755.3" y2="328.8" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="328.8" to="161.1" begin="2.7s" dur="0.3s" fill="freeze"/>
+                <animate attributeName="x2" from="755.3" to="817" begin="2.7s" dur="0.3s" fill="freeze"/>
+            </line>
+<!--8-->
+            <line x1="817" y1="161.1" x2="817" y2="161.1" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="161.1" to="231.6" begin="3s" dur="0.2s" fill="freeze"/>
+                <animate attributeName="x2" from="817" to="853.9" begin="3s" dur="0.2s" fill="freeze"/>
+            </line>
+<!--9-->
+            <line x1="853.9" y1="231.6" x2="853.9" y2="231.6" style="stroke:#0071BC; stroke-width: 4px;" >
+                <animate attributeName="y2" from="231.6" to="-50.6" begin="3.2s" dur="0.7s" fill="freeze"/>
+                <animate attributeName="x2" from="853.9" to="1076.5" begin="3.2s" dur="0.7s" fill="freeze"/>
+            </line>          
+		</g>
+        
+		<circle id="XMLID_172_" class="st0" cx="376.1" cy="355.1" r="0">
+               <animate attributeName="r" from="0" to="14.8" begin="1.4s" dur="0.5s" fill="freeze"/> 
+               <animate attributeName="r" from="14.8" to="12.4" begin="1.9s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_171_" class="st0" cx="419.6" cy="383.2" r="0">
+               <animate attributeName="r" from="0" to="14.8" begin="1.6s" dur="0.5s" fill="freeze"/> 
+               <animate attributeName="r" from="14.8" to="12.4" begin="2.1s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_170_" class="st0" cx="513.2" cy="312.6" r="0">
+               <animate attributeName="r" from="0" to="14.8" begin="1.9s" dur="0.5s" fill="freeze"/> 
+               <animate attributeName="r" from="14.8" to="12.4" begin="2.4s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_169_" class="st0" cx="567.4" cy="379.1" r="0">
+               <animate attributeName="r" from="0" to="14.8" begin="2.2s" dur="0.5s" fill="freeze"/> 
+               <animate attributeName="r" from="14.8" to="12.4" begin="2.7s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_168_" class="st0" cx="714.8" cy="258.1" r="0">
+               <animate attributeName="r" from="0" to="14.8" begin="2.5s" dur="0.5s" fill="freeze"/> 
+               <animate attributeName="r" from="14.8" to="12.4" begin="3s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_167_" class="st0" cx="754.8" cy="323.6" r="0">
+                <animate attributeName="r" from="0" to="14.8" begin="2.7s" dur="0.5s" fill="freeze"/> 
+                <animate attributeName="r" from="14.8" to="12.4" begin="3.2s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_166_" class="st0" cx="816.7" cy="155.5" r="0">
+                <animate attributeName="r" from="0" to="14.8" begin="3s" dur="0.5s" fill="freeze"/> 
+                <animate attributeName="r" from="14.8" to="12.4" begin="3.5s" dur="0.2s" fill="freeze"/> 
+        </circle>
+		<circle id="XMLID_165_" class="st0" cx="854.3" cy="227.5" r="0">
+                <animate attributeName="r" from="0" to="14.8" begin="3.2s" dur="0.5s" fill="freeze"/> 
+                <animate attributeName="r" from="14.8" to="12.4" begin="3.7s" dur="0.2s" fill="freeze"/> 
+        </circle>
+	</g>
+</g>
+<g transform="translate(-550,0)">
+    <animateMotion path="M 0 0 L 550 0" dur="1s" fill="freeze" />   
+    <g id="Building">
+        <g id="XMLID_26_">
+            <g id="XMLID_62_">
+                <rect id="XMLID_163_" x="562.8" y="286.8" class="st0" width="87.6" height="3.1"/>
+                <path id="XMLID_161_" class="st0" d="M562.8,288.3v148.8h87.6V288.3H562.8z"/>
+                <g id="XMLID_128_">
+                    <rect id="XMLID_160_" x="572" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_159_" x="572" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_158_" x="577.7" y="332" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_157_" x="577.7" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_156_" x="577.7" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_155_" x="585.7" y="321" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_154_" x="585.7" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_153_" x="591.4" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_152_" x="591.4" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_151_" x="619.5" y="343" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_150_" x="619.5" y="332" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_149_" x="619.5" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_148_" x="619.5" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_147_" x="625.2" y="354" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_146_" x="625.2" y="343" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_145_" x="625.2" y="332" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_144_" x="625.2" y="321" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_143_" x="625.2" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_142_" x="625.2" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_141_" x="633.2" y="365" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_140_" x="633.2" y="354" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_139_" x="633.2" y="332" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_138_" x="633.2" y="321" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_137_" x="633.2" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_136_" x="633.2" y="299" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_135_" x="638.9" y="365" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_134_" x="638.9" y="354" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_133_" x="638.9" y="343" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_132_" x="638.9" y="332" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_131_" x="638.9" y="321" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_130_" x="638.9" y="310" class="st1" width="2.6" height="5.2"/>
+                    <rect id="XMLID_129_" x="638.9" y="299" class="st1" width="2.6" height="5.2"/>
+                </g>
+                <g id="XMLID_116_">
+                    <g id="XMLID_119_">
+                        <rect id="XMLID_127_" x="580" y="263.7" class="st0" width="21.3" height="7.8"/>
+                        <g id="XMLID_121_">
+                            <rect id="XMLID_126_" x="582" y="263.7" class="st1" width="1.9" height="3.8"/>
+                            <rect id="XMLID_125_" x="585.8" y="263.7" class="st1" width="1.9" height="3.8"/>
+                            <rect id="XMLID_124_" x="589.7" y="263.7" class="st1" width="1.9" height="3.8"/>
+                            <rect id="XMLID_123_" x="593.6" y="263.7" class="st1" width="1.9" height="3.8"/>
+                            <rect id="XMLID_122_" x="597.4" y="263.7" class="st1" width="1.9" height="3.8"/>
+                        </g>
+                        <rect id="XMLID_120_" x="580" y="260.8" class="st0" width="21.3" height="2.9"/>
+                    </g>
+                    <rect id="XMLID_118_" x="584.8" y="246.9" class="st0" width="0.4" height="13.9"/>
+                    <rect id="XMLID_117_" x="590.3" y="251.8" class="st0" width="0.4" height="9"/>
+                </g>
+                <g id="XMLID_63_">
+                    <g id="XMLID_77_">
+                        <g id="XMLID_78_">
+                            <polygon id="XMLID_91_" class="st0" points="621.4,239.4 618.5,239.4 615.7,239.4 615.1,271.5 618.5,271.5 622,271.5 						
+                                "/>
+                            <polygon id="XMLID_90_" class="st0" points="612.5,239.4 609.6,239.4 606.8,239.4 606.2,271.5 609.6,271.5 613,271.5 						
+                                "/>
+                            <g id="XMLID_87_">
+                                <polygon id="XMLID_89_" class="st0" points="642.1,274.1 636.1,274.1 636.1,272.2 642.1,272.2 642.1,274.1 							"/>
+                                <polygon id="XMLID_88_" class="st0" points="639.1,273.6 632.4,273.6 632.4,272.8 639.1,272.8 639.1,273.6 							"/>
+                            </g>
+                            <g id="XMLID_84_">
+                                <polygon id="XMLID_86_" class="st0" points="642.1,279.3 636.1,279.3 636.1,277.5 642.1,277.5 642.1,279.3 							"/>
+                                <polygon id="XMLID_85_" class="st0" points="639.1,278.8 632.4,278.8 632.4,278 639.1,278 639.1,278.8 							"/>
+                            </g>
+                            <g id="XMLID_81_">
+                                <path id="XMLID_82_" class="st0" d="M574,271.5v15.2h59.7v-15.2H574z"/>
+                            </g>
+                            <path id="XMLID_80_" class="st0" d="M640.7,286.8h-3.1v-18c0-1.7-1.4-3.2-3.2-3.2h-0.4c-1.7,0-3.2,1.4-3.2,3.2v2.8h-3.1v-2.8
+                                c0-3.5,2.8-6.3,6.3-6.3h0.4c3.5,0,6.3,2.8,6.3,6.3V286V286.8z"/>
+                            <polygon id="XMLID_79_" class="st0" points="632.3,271.5 626.1,271.5 626.1,270.2 632.3,270.2 632.3,271.5 						"/>
+                        </g>
+                    </g>
+                    <g id="XMLID_64_">
+                        <polygon id="XMLID_76_" class="st0" points="615.1,271.5 622,271.5 621.9,268.8 615.2,268.8 					"/>
+                        <polygon id="XMLID_75_" class="st0" points="606.2,268.8 606.2,271.5 613,271.5 613,268.8 					"/>
+                        <polygon id="XMLID_74_" class="st0" points="615.2,266.2 621.9,266.2 621.8,263.5 615.3,263.5 					"/>
+                        <polygon id="XMLID_73_" class="st0" points="612.9,263.5 606.3,263.5 606.3,266.2 612.9,266.2 					"/>
+                        <polygon id="XMLID_72_" class="st0" points="615.3,260.8 621.8,260.8 621.7,258.1 615.4,258.1 					"/>
+                        <polygon id="XMLID_71_" class="st0" points="612.8,258.1 606.4,258.1 606.4,260.8 612.8,260.8 					"/>
+                        <polygon id="XMLID_70_" class="st0" points="615.4,255.4 621.7,255.4 621.6,252.8 615.5,252.8 					"/>
+                        <polygon id="XMLID_69_" class="st0" points="612.7,252.8 606.5,252.8 606.5,255.4 612.7,255.4 					"/>
+                        <polygon id="XMLID_68_" class="st0" points="615.5,250.1 621.6,250.1 621.5,247.4 615.5,247.4 					"/>
+                        <polygon id="XMLID_67_" class="st0" points="612.6,247.4 606.6,247.4 606.6,250.1 612.7,250.1 					"/>
+                        <polygon id="XMLID_66_" class="st0" points="621.5,244.7 621.4,242.1 615.6,242.1 615.6,244.7 					"/>
+                        <polygon id="XMLID_65_" class="st0" points="612.5,242.1 606.7,242.1 606.7,244.7 612.6,244.7 					"/>
+                    </g>
+                </g>
+            </g>
+            <g id="XMLID_27_">
+                <path id="XMLID_53_" class="st0" d="M553.8,365.5v71.5H589v-71.5H553.8z M561.9,396.8h-4.5v-4.1h4.5V396.8z M561.9,383.2h-4.5
+                    v-4.1h4.5V383.2z M569.8,396.8h-4.5v-4.1h4.5V396.8z M569.8,383.2h-4.5v-4.1h4.5V383.2z M577.6,396.8h-4.5v-4.1h4.5V396.8z
+                     M585.4,396.8h-4.5v-4.1h4.5V396.8z M585.4,383.2h-4.5v-4.1h4.5V383.2z"/>
+                <g id="XMLID_45_">
+                    <rect id="XMLID_52_" x="557.6" y="379.1" class="st0" width="4.5" height="4.1"/>
+                    <rect id="XMLID_51_" x="557.6" y="392.7" class="st0" width="4.5" height="4.1"/>
+                    <rect id="XMLID_50_" x="565.4" y="392.7" class="st0" width="4.5" height="4.1"/>
+                    <rect id="XMLID_49_" x="573.2" y="392.7" class="st0" width="4.5" height="4.1"/>
+                    <rect id="XMLID_48_" x="581" y="379.1" class="st0" width="4.5" height="4.1"/>
+                    <rect id="XMLID_47_" x="565.4" y="379.1" class="st0" width="4.5" height="4.1"/>
+                    <rect id="XMLID_46_" x="581" y="392.7" class="st0" width="4.5" height="4.1"/>
+                </g>
+                <path id="XMLID_43_" class="st0" d="M599.1,344.7v92.3H589v-71.5L599.1,344.7z"/>
+                <path id="XMLID_41_" class="st2" d="M609.1,365.5v71.5h-10.1v-92.3L609.1,365.5z"/>
+                <polygon id="XMLID_40_" class="st0" points="599.1,344.7 563.9,344.7 553.8,365.5 589,365.5 			"/>
+                <g id="XMLID_28_">
+                    <polygon id="XMLID_39_" class="st0" points="564.5,344.7 563.9,344.7 553.8,365.5 554.4,365.5 				"/>
+                    <polygon id="XMLID_38_" class="st0" points="567.9,344.7 567.3,344.7 557.2,365.5 557.9,365.5 				"/>
+                    <polygon id="XMLID_37_" class="st0" points="571.4,344.7 570.8,344.7 560.7,365.5 561.3,365.5 				"/>
+                    <polygon id="XMLID_36_" class="st0" points="574.9,344.7 574.2,344.7 564.2,365.5 564.8,365.5 				"/>
+                    <polygon id="XMLID_35_" class="st0" points="578.3,344.7 577.7,344.7 567.6,365.5 568.2,365.5 				"/>
+                    <polygon id="XMLID_34_" class="st0" points="581.8,344.7 581.1,344.7 571.1,365.5 571.7,365.5 				"/>
+                    <polygon id="XMLID_33_" class="st0" points="585.2,344.7 584.6,344.7 574.5,365.5 575.2,365.5 				"/>
+                    <polygon id="XMLID_32_" class="st0" points="588.7,344.7 588.1,344.7 578,365.5 578.6,365.5 				"/>
+                    <polygon id="XMLID_31_" class="st0" points="592.1,344.7 591.5,344.7 581.5,365.5 582.1,365.5 				"/>
+                    <polygon id="XMLID_30_" class="st0" points="595.6,344.7 595,344.7 584.9,365.5 585.5,365.5 				"/>
+                    <polygon id="XMLID_29_" class="st0" points="599.1,344.7 598.4,344.7 588.4,365.5 589,365.5 				"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Building-_Smoke">
+        <g id="XMLID_92_" class="st3">
+            <circle id="XMLID_115_" class="st4" cx="618.5" cy="238.7" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1s" dur="0.2s" fill="freeze"/> 
+            </circle>         
+            <circle id="XMLID_114_" class="st4" cx="609.6" cy="238.7" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.1s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_113_" class="st4" cx="610" cy="235.4" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.2s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_112_" class="st4" cx="612.8" cy="236.4" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.2s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_111_" class="st4" cx="616.2" cy="236.1" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.3s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_110_" class="st4" cx="614.6" cy="234.2" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.3s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_109_" class="st4" cx="612.3" cy="232.3" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.3s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_108_" class="st4" cx="616.7" cy="229.2" r="0">
+                <animate attributeName="r" from="0" to="3.7" begin="1.5s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_107_" class="st4" cx="624.2" cy="225.5" r="0">
+                <animate attributeName="r" from="0" to="5.7" begin="1.4s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_106_" class="st4" cx="635" cy="233.1" r="0">
+                <animate attributeName="cx" from="625" to="635" begin="1.65s" dur="0.4s" fill="freeze"/> 
+                <animate attributeName="r" from="0" to="5.7" begin="1.65s" dur="0.4s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_105_" class="st4" cx="635" cy="227.3" r="0">
+                <animate attributeName="r" from="0" to="5.7" begin="1.8s" dur="0.4s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_104_" class="st4" cx="633.1" cy="214.9" r="0">
+                <animate attributeName="cy" from="234.9" to="214.9" begin="2.25s" dur="1s" fill="freeze"/> 
+                <animate attributeName="r" from="4" to="11.7" begin="2.25s" dur="0.6s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_103_" class="st4" cx="645" cy="225.5" r="0">
+                <animate attributeName="cx" from="635" to="645" begin="2.4s" dur="0.5s" fill="freeze"/> 
+                <animate attributeName="r" from="2" to="8" begin="2.4s" dur="0.1s" fill="freeze"/>   
+            </circle>
+            <circle id="XMLID_102_" class="st4" cx="649" cy="214.1" r="0">
+                <animate attributeName="cy" from="225" to="214.1" begin="2.6s" dur="0.5s" fill="freeze"/> 
+                <animate attributeName="r" from="0" to="9.5" begin="2.6s" dur="0.5s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_100_" class="st4" cx="664.6" cy="222.9" r="0">
+                <animate attributeName="cx" from="655" to="664.6" begin="2.9s" dur="0.6s" fill="freeze"/> 
+                <animate attributeName="r" from="3" to="14.3" begin="2.9s" dur="0.8s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_101_" class="st4" cx="672.1" cy="205.3" r="0">
+                <animate attributeName="r" from="3" to="14.1" begin="3.2s" dur="0.6s" fill="freeze"/>
+                <animate attributeName="cy" from="214" to="205.3" begin="3.2s" dur="0.7s" fill="freeze"/> 
+                <animate attributeName="cx" from="652.1" to="672.1" begin="3.2s" dur="0.7s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_99_" class="st4" cx="620.6" cy="231.9" r="0">
+                <animate attributeName="r" from="0" to="4.4" begin="1.2s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_98_" class="st4" cx="619.2" cy="235.4" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.3s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_97_" class="st4" cx="622" cy="236.4" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.4s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_96_" class="st4" cx="625.3" cy="236.1" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.4s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_95_" class="st4" cx="623.7" cy="234.2" r="0">
+                <animate attributeName="r" from="0" to="2.3" begin="1.4s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_94_" class="st4" cx="625.4" cy="229.7" r="0">
+                <animate attributeName="r" from="0" to="3.2" begin="1.4s" dur="0.2s" fill="freeze"/> 
+            </circle>
+            <circle id="XMLID_93_" class="st4" cx="627.6" cy="231.3" r="0">
+                <animate attributeName="r" from="0" to="3.2" begin="1.4s" dur="0.2s" fill="freeze"/> 
+            </circle>
+        </g>
+    </g>
+    <g id="Hand">
+        <g id="XMLID_5_">
+            <rect id="XMLID_25_" x="381.3" y="485.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -247.9232 471.769)" class="st5" width="128.4" height="99.9"/>
+            <path id="XMLID_24_" class="st4" d="M482,450.1h241.4c10.6,0,19.3,8.6,19.3,19.3c0,10.6-8.6,19.3-19.3,19.3H622.3h-32.5
+                c-26.9,0-48,20.9-63.6,36.4L464.3,587l-70.6-70.6l45.5-45.5C450.4,459.7,466.2,450.1,482,450.1z"/>
+            <linearGradient id="XMLID_185_" gradientUnits="userSpaceOnUse" x1="716.4955" y1="454.3971" x2="716.4955" y2="525.1925">
+                <stop  offset="0" style="stop-color:#FFFFFF"/>
+                <stop  offset="1" style="stop-color:#AADCE6"/>
+            </linearGradient>
+            <path id="XMLID_23_" class="st6" d="M694.8,489.6c0-8.4,6.8-15.2,15.2-15.2h28.1v15.2H694.8L694.8,489.6z"/>
+            <path id="XMLID_22_" class="st4" d="M709.8,437.1H473l-79.3,79.3l70.6,70.6l61.9-61.9c22.5-22.5,50-49.5,81.8-49.5h101.7
+                c10.6,0,19.3-8.6,19.3-19.3C729,445.7,720.4,437.1,709.8,437.1z"/>
+            <linearGradient id="XMLID_186_" gradientUnits="userSpaceOnUse" x1="702.8042" y1="463.6851" x2="702.8042" y2="534.4777">
+                <stop  offset="0" style="stop-color:#FFFFFF"/>
+                <stop  offset="1" style="stop-color:#AADCE6"/>
+            </linearGradient>
+            <path id="XMLID_21_" class="st7" d="M681.1,475.6c0-8.4,6.8-15.2,15.2-15.2h28.1v15.2H681.1L681.1,475.6z"/>
+            <g id="XMLID_19_">
+                <path id="XMLID_20_" class="st8" d="M519.4,480c18.1,0,37-17.3,55.1-17.3h62c11.8,0,21.4-9.6,21.4-21.4c0-1.4-0.1-2.8-0.4-4.2
+                    H490.9c-0.2,1.5-0.3,3-0.3,4.6C490.6,466.3,490.5,480,519.4,480z"/>
+            </g>
+            <g id="XMLID_14_">
+                <path id="XMLID_18_" class="st4" d="M630.2,413.5h-60.3c-21.1,0-26.8-22.9-50.5-22.9c-29,0-52.4,20-52.4,44.7
+                    c0,24.7,23.5,44.7,52.4,44.7c18.1,0,30.7-23.7,48.7-23.7h62c11.8,0,21.4-9.6,21.4-21.4S642.1,413.5,630.2,413.5z"/>
+                <linearGradient id="XMLID_187_" gradientUnits="userSpaceOnUse" x1="621.1987" y1="455.9337" x2="621.1987" y2="498.5348">
+                    <stop  offset="0" style="stop-color:#FFFFFF"/>
+                    <stop  offset="1" style="stop-color:#AADCE6"/>
+                </linearGradient>
+                <path id="XMLID_17_" class="st9" d="M603.9,434.9c0,9,7.3,16.2,16.2,16.2h18.4v-32.5h-18.4C611.2,418.7,603.9,425.9,603.9,434.9z
+                    "/>
+            </g>
+            <g id="XMLID_6_">
+                <polygon id="XMLID_13_" class="st10" points="469.9,600.3 513.2,556.9 458.2,501.9 419.9,527.4 445.2,488.9 423.7,467.5 
+                    380.4,510.8 			"/>
+                <g id="XMLID_11_">
+                    <polygon id="XMLID_12_" class="st11" points="366.3,496.7 -39.5,901.8 -39.5,1007.7 90,1007.7 484,614.4 				"/>
+                </g>
+                <g id="XMLID_7_">
+                    <circle id="XMLID_10_" class="st5" cx="429.8" cy="603.7" r="10.4"/>
+                    <circle id="XMLID_9_" class="st5" cx="409.2" cy="624.3" r="10.4"/>
+                    <circle id="XMLID_8_" class="st5" cx="388.7" cy="644.9" r="10.4"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</g>    
+</svg>

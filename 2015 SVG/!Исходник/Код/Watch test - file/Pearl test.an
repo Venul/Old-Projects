@@ -1,0 +1,77 @@
+
+{
+
+	"HTMLFileName":"Pearl test.html",
+	"PosterCapturePos":"3000",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"stage-Default Timeline_mark_ms":"-1",
+	"PosterImagePath":"images/Poster.png",
+	"expanded:images/runningman.svg":"nil",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"StageZoomFactor":"120",
+	"expanded:images/Poster.png":"nil",
+	"viewStartMs":"-25",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"expanded:images/Hand_watch.svg":"nil",
+	"symbol_stage":{
+		"dummyStageParentWidth":"550px",
+		"element_${pointer}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"true",
+			"timelineColor":"0x00bda4"},
+		"dummyStageParentHeight":"400px",
+		"defaultStageParentHeight":"400px",
+		"element_${sec}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"true",
+			"timelineColor":"0x91c767"},
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"550px",
+		"element_${Hand_watch}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"true",
+			"invisible":"false"},
+		"element_${runningman}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"true",
+			"timelineColor":"0x50bd82"},
+		"element_${big_pointer}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"animationEnabled":"true",
+			"timelineColor":"0x2f73ad"}},
+	"TransitionIdCounter":"64",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"PubDPS":"true",
+	"PubWeb":"false",
+	"usedBOM":"false",
+	"nextElementColorIndex":"7",
+	"expanded:images/pointer.svg":"nil",
+	"expanded:images/sec.svg":"nil",
+	"expanded:images/big_pointer.svg":"nil",
+	"stage-Default Timeline_playhead_ms":"0"}

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--Просим IE переключиться в последний режим-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="yandex-verification" content="bfe399995a6b84cf" />
+    <!--Запрещаем кэшировать документ-->
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+
+    <!--Запрещаем распознавать номера телефонов и адреса, а так-же выделять их-->
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="address=no"/>
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0"/>
+    <!--Убираем возможность масштабировать-->
+    <!-- <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0"/> -->
+
+    <!--Полный набор для SEO-->
+    <title>traffic</title>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="copyright" content="(c)">
+    <meta http-equiv="Reply-to" content="">
+    <link href="css/bootstrap.min.css" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=cyrillic,cyrillic-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&subset=cyrillic,cyrillic-ext" rel="stylesheet">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/iziModal.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="http://knockoutjs.com/downloads/knockout-3.4.0.js"></script>
+    <script src="js/iziModal.min.js"></script>
+    <script defer src="js/script.js"></script>
+  </head>
+  <body>
+    <div class="container main-container">
+        <header>
+          <div class="header__contacts">
+            <div class="clearfix main-text">
+              <h1>ПАССАЖИРСКИЕ ПЕРЕВОЗКИ</h1>
+              <a href="https://vk.com/id344979972">
+                <p><img src="images/svg/vk.svg" alt="" /></p>
+                <p>Наша страница Вконтакте</p>
+              </a>
+            </div>
+          </div>
+          <div class="header__intro container">
+            <div class="header-info">
+                <div class="show-desk-head">
+                  <h2>ЗАКАЗ АВТОБУСА</h2>
+                  <p>По Республике Крым и Краснодарскому краю</p>
+                  <p>
+                    <span>+7 978 896 18 64</span>
+                    <span>+7 953 116 46 30</span>
+                  </p>
+                </div>
+                <div class="show-mob-head">
+                  <h2>ЗАКАЗ АВТОБУСА</h2>
+                  <p>По Республике Крым
+                  <p><span>+7 978 896 18 64</span></p>
+                  <p>и Краснодарскому краю</p>
+                  <p><span>+7 953 116 46 30</span></p>
+                </div> 
+            </div>
+            <div>  
+                <div class="form-zakaz">
+                  <input type="text" name="nameField" value="" placeholder="Имя" data-bind="value: fields().nameField, css: { empty_field: fieldStatus.nameField }, click: returnDefaultField"> <br>
+                  <input type="text" name="phoneField" value="" placeholder="Телефон" data-bind="value: fields().phoneField, css: { empty_field: fieldStatus.phoneField }, click: returnDefaultField"> <br>
+                  <button type="button" name="button" data-bind="click: sentData">ЗАКАЗАТЬ</button>
+                </div>
+                <a href="https://vk.com/id344979972" class="link-mob">
+                    <p><img src="images/svg/vk.svg" alt="" />
+                    Наша страница Вконтакте</p>
+                </a>
+            </div>
+          </div>
+        </header>
+
+        <div id="modal" class="iziModal" data-izimodal-title="Ваше сообщение отправлено!"></div>
+
+        <div class="situations container">
+          <h2>Предоставляем транспорт на все случаи жизни</h2>
+          <div class="situations__features">
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/sun.svg" alt="" /><br>
+              <p>Поездка на море</p>
+            </div>
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/location.svg" alt="" /><br>
+              <p>Экскурсия</p>
+            </div>
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/building.svg" alt="" /><br>
+              <p>Междугородний трансфер</p>
+            </div>
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/rings.svg" alt="" /><br>
+              <p>Свадьба</p>
+            </div>
+
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/man.svg" alt="" /><br>
+              <p>Доставка сотрдников</p>
+            </div>
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/glass.svg" alt="" /><br>
+              <p>Корпоратив</p>
+            </div>
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/kids.svg" alt="" /><br>
+              <p>Перевозка детей</p>
+            </div>
+            <div class="col-md-3 col-xs-3">
+              <img src="images/svg/cake.svg" alt="" /><br>
+              <p>Любые другие</p>
+            </div>
+          </div>
+        </div>
+        <div class="big_image container">
+          <img src="images/map2.jpg" alt="" />
+        </div>
+
+        <div class="time">
+          <div class="yellow-zag">
+            <h2>Ежедневные пассажирские перевозки</h2>
+            <p>
+              Симферополь-Краснодар-Симферополь
+            </p>
+          </div>
+
+          <div class="time__map clearfix container">
+            <div class="maps col-xs-7">
+                <img src="images/map.jpg" alt=""/>
+            </div>    
+            <div class="text-map col-xs-5 map-desk">  
+                <p><strong>Почему мы быстрее остальных?</strong></p> <br>
+                <p>
+                  Все дело в <strong>Керченской паромной переправе</strong>. Вместо того, чтобы ожидать
+                  несколько часов своей очереди в автобусе, наши пассажири садятся на
+                  ближайший паром.
+                </p> <br>
+                <p>
+                  Для еще <strong>большей экономии времени</strong> пассажиры предоставляют паспорта
+                  водителю. А он покупает билеты на всех без очереди.
+                </p> <br>
+                <p>
+                  Через <strong>20 минут</strong> на другой стороне пролива Вас ждеть уже другой
+                  микроавтобус, который немедленно отправляется в Краснодар.
+                </p>  
+            </div>
+                <div class="text-map col-xs-5 map-mob">  
+                    <p><strong>Почему мы быстрее остальных?</strong></p>
+                    <p>На <strong>переправе</strong> вы не ждете очереди, а садитесь на ближайший паром.</p>
+                    <p>Для <strong>ускорения процедуры</strong> наш водитель собирает паспорта и покупает билеты.</p>
+                    <p>На другой стороне вас ждет <strong>другой микроавтобус</strong>, который тут же повезет вас дальше.</p>
+                </div>
+
+            <div class="time__explain col-xs-7">
+                <img src="images/svg/clocks.svg" alt="" />
+                <p>Это позволяет сэкономить до <span>3</span> часов вашего времени!</p>
+                <p>Всего за <span>1050</span> рублей с учетом билета на паром!</p>
+            </div>
+          </div>
+
+            <div class="car">
+              <div class="car__content container">
+                <h2>Наша техника</h2>
+                <div class="clearfix">
+                  <img src="images/peugeot.png" alt="" class="car-desk"/>
+                  <p>Микроавтобусы вместимостью 18 человек</p><br>
+                  <img src="images/peugeot.png" alt="" class="car-mid"/>
+                  <p>
+                      •&nbsp;&nbsp;Быстрые&nbsp;&nbsp;
+                      •&nbsp;&nbsp;Удобные&nbsp;&nbsp;
+                      •&nbsp;&nbsp;Маневренные&nbsp;&nbsp;
+                      •&nbsp;&nbsp;Тихие&nbsp;&nbsp;•
+                  </p>
+                  <img src="images/peugeot.png" alt="" class="car-mob"/>
+                </div>
+              </div>
+            </div>    
+        </div>
+
+        <div class="work">
+          <div>
+            <h2>Как мы работаем</h2>
+          </div>
+
+          <div class="work__aspects container">
+            <div class="col-xs-6">
+              <img src="images/svg/shield.svg" alt="" />
+              <p>
+                <strong>Мы гарантируем надежность</strong><br>
+                Автобусы регулярно проходят техническое обслуживание
+              </p>
+            </div>
+            <div class="col-xs-6">
+              <img src="images/svg/angel.svg" alt="" />
+              <p>
+                <strong>Мы пунктуальные и вежливые</strong>
+                Никакой громкой музыки, бранных слов и опозданий водителя
+              </p>
+            </div>
+            <div class="col-xs-6">
+              <img src="images/svg/chair.svg" alt="" />
+              <p>
+                <strong>Мы ценим комфорт</strong> <br>
+                В наших машинах удобные <br> сидения и чистый салон
+              </p>
+            </div>
+            <div class="col-xs-6">
+              <img src="images/svg/clock.svg" alt="" />
+              <p>
+                <strong>24 часа ежедневно</strong> <br>
+                Круглосуточное обслуживание <br> Мы на связи всегда и без выходных
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <footer>
+          <div class="container clearfix">
+            <div class="footer-head">
+              <p>ПАССАЖИРСКИЕ ПЕРЕВОЗКИ</p>
+              <p>ПО КРЫМУ И КРАСНОДАРСКОМУ КРАЮ</p>
+            </div>  
+            <div class="footer__contacts">
+                  <p>+7 978 896 18 64 <span>(Крым)</span></p>
+                  <p>+7 953 116 46 30 <span>(Краснодар)</span></p>
+                  <p>И.П. Плюшкин</p>      
+                  <p class="vk-foot-desk"><a href="https://vk.com/id344979972"><img src="images/svg/vk.svg" alt="" />&nbsp;&nbsp;Наша страница Вконтакте </a></p>
+            </div>
+            <div class="footer__form">
+              <input type="text" name="nameField" value="" placeholder="Имя" data-bind="value: fields().nameField, css: { empty_field: fieldStatus.nameField }, click: returnDefaultField"> <br>
+              <input type="text" name="phoneField" value="" placeholder="Телефон" data-bind="value: fields().phoneField, css: { empty_field: fieldStatus.phoneField }, click: returnDefaultField"> <br>
+              <button type="button" name="button" data-bind="click: sentData">ЗАКАЗАТЬ</button>
+            </div>
+            <p class="vk-foot-mob"><a href="https://vk.com/id344979972"><img src="images/svg/vk.svg" alt="" />&nbsp;&nbsp;Наша страница Вконтакте </a></p>  
+          </div>
+          <div class="footer__logo container">
+            <a href="http://origami24.ru/"><img src="images/logo.png" alt="" /></a>
+          </div>
+        </footer>
+    </div>
+  </body>
+</html>

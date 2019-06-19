@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <!--Просим IE переключиться в последний режим-->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="yandex-verification" content="60a54da77e9c1bad" />
+        <!--Запрещаем кэшировать документ-->
+        <meta http-equiv="Cache-Control" content="no-cache"/>
+        <!--Запрещаем распознавать номера телефонов и адреса, а так-же выделять их-->
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="format-detection" content="address=no"/>
+        <!--Убираем возможность масштабировать-->
+        <!-- <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0"/> -->
+        <!--Полный набор для SEO-->
+        <title>Как бы отель</title>
+        <meta name="description" content=""/>
+        <meta name="keywords" content=""/>
+        <meta name="copyright" content="(c)">
+        <meta http-equiv="Reply-to" content="">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=cyrillic,cyrillic-ext" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/iziModal.css">
+        <link rel="stylesheet" href="css/orderModule.css">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <!-- Start WOWSlider.com HEAD section -->
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+        <script type="text/javascript" src="engine1/jquery.js"></script>
+        <link rel="stylesheet" href="slider/css/reset.css">
+        <!-- CSS reset -->
+        <link rel="stylesheet" href="slider/css/style.css">
+        <!-- Resource style -->
+        <script src="slider/js/modernizr.js"></script> <!-- Modernizr -->
+        <!-- End WOWSlider.com HEAD section -->
+        <link rel="stylesheet" href="css/style.css">
+<!--        <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>-->
+        <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+        <script src="http://knockoutjs.com/downloads/knockout-3.4.0.js"></script>
+        <script src="js/iziModal.min.js"></script>
+        <script defer src="js/script.js"></script>
+
+    </head>
+    <body>
+        <div class="jumbotron">
+            <header>
+                <div class="header__contacts container clearfix ">
+                    <img src="images/logo_otel.png" alt="Лого хостела Как бы отель" class="desk-logo" />
+                    <img src="images/logo_otel_330px.png" alt="Лого хостела Как бы отель" class="mob-logo" />
+                    <p>г.Симферополь, &nbsp; ул.Тургенева, &nbsp; 4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        8-978-060-54-60 &nbsp; &nbsp; &nbsp; &nbsp;
+                        <a target="_blank" href="https://vk.com/kakbyhotel"><i class="fa fa-vk fa-2x scr-badg"></i></a> &nbsp; &nbsp; &nbsp;
+                        <a target="_blank" href="https://www.instagram.com/kakbyhotel/"><i class="fa fa-instagram fa-2x scr-badg"></i></a>
+                    </p>
+                </div>
+                <div class="adress">
+                    <p>г.Симферополь, ул.Тургенева, 4 </p>
+                    <p>8-978-060-54-60</p>
+                </div>
+                <div class="header__introduction container">
+                    <h1>Хостел  <br>&laquo;Как бы Отель&raquo;</h1>
+                    <p>Самый стильный хостел Симферополя</p>
+                    <div class="hide-badg">
+                        <a target="_blank" href="https://vk.com/kakbyhotel"><i class="fa fa-vk fa-2x"></i></a> &nbsp; &nbsp; &nbsp;
+                        <a target="_blank" href="https://www.instagram.com/kakbyhotel/"><i class="fa fa-instagram fa-2x"></i></a>
+                    </div>
+                    <button type="button" name="button" data-izimodal-open="modal2">ЗАБРОНИРОВАТЬ МЕСТО</button>
+                </div>
+            </header>
+            <div class="hostel-features container">
+                <h2>Особенности хостела</h2>
+                <div class="hostel-features__elements col-md-12 col-xs-12">
+                    <div>
+                        <img src="images/svg/sofa.svg" alt="Иконка дивана" /><br>
+                        <p>Дизайнерский <br>интерьер</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/food.svg" alt="Иконка скидки" /><br>
+                        <p>Скидка 15%<br>в &laquo;Как бы кафе&raquo;</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/woman.svg" alt="Иконка администратора" /><br>
+                        <p>Внимательные <br> администраторы</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/wireless-internet-connectivity.svg" alt="Иконка wi-fi" /><br>
+                        <p>Бесплатный Wi-Fi</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/teapot.svg" alt="Иконка кухни" /><br>
+                        <p>Полностью <br>оборудованная кухня</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/air-conditioner-1.svg" alt="Иконка кондиционера" /><br>
+                        <p>Кондиционеры <br> во всех номерах</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/bed.svg" alt="Иконка постельного белья" /><br>
+                        <p>Постельное белье <br> включено в цену</p>
+                    </div>
+                    <div>
+                        <img src="images/svg/reception-bell.svg" alt="Иконка ресепшина" /><br>
+                        <p>Receprion <br> 24 часа</p>
+                    </div>
+                </div>
+                <div class="new-discr">
+                    <p>- Дизайнерский интерьер</p>
+                    <p>- Скидка 15% в Как бы кафе</p>
+                    <p>- Внимательные администраторы</p>
+                    <p>- Бесплатный Wi-Fi</p>
+                    <p>- Полностью оборудованная кухня</p>
+                    <p>- Кондиционеры во всех номерах</p>
+                    <p>- Постельное белье включено в цену</p>
+                    <p>- Receprion 24 часа</p>
+                </div>
+            </div>
+            <div class="hostel-rooms container">
+                <h2>Комнаты</h2>
+                <h3 class="zagol-small">8-местная комната</h3>
+                <div class="hostel-rooms__room clearfix">
+                    <img src="images/room1.jpg" alt="" class=""/>
+                    <div class="">
+                        <h3 class="zag-top">8-местная комната</h3>
+                        <p>
+                            Общая комната на 8 мест со всем необходимым. В стоимость входит
+                            WI-FI, постельное белье и два полотенца, розетки, светильник,
+                            а так же все удобства хостела.
+                        </p>
+                        <span>580 руб/сутки</span>
+                        <p class="price">580 руб/сутки</p>
+                        <button type="button" name="button" data-izimodal-open="modal2">ЗАБРОНИРОВАТЬ МЕСТО</button>
+                    </div>
+                </div>
+                <h3 class="zagol-small">4-местная комната</h3>
+                <div class="hostel-rooms__room clearfix">
+                    <img src="images/room2.jpg" alt="" class=""/>
+                    <div class="">
+                        <h3 class="zag-top">4-местная комната</h3>
+                        <p>
+                            Общая комната на 4 места со всем необходимым. В стоимость входит
+                            WI-FI, постельное белье и два полотенца, розетки, светильник,
+                            а так же все удобства хостела.
+                        </p>
+                        <span>640 руб/сутки</span>
+                        <p class="price">640 руб/сутки</p>
+                        <button type="button" name="button" data-izimodal-open="modal2">ЗАБРОНИРОВАТЬ МЕСТО</button>
+                    </div>
+                </div>
+                <h3 class="zagol-small">2-спальная кровать</h3> 
+                <h3 class="zagol-small">в 8-местной комнате</h3>
+                <div class="hostel-rooms__room clearfix">
+                    <img src="images/room3.jpg" alt="" class=""/>
+                    <div class="">
+                        <h3>2-спальная кровать <br> в 8-местной комнате</h3>
+                        <p>
+                            Кровать для двух человек, закрывающаяся шторой. В цену номера в
+                            хостеле включены WI-FI, постельное белье и полотенца, фен, кофе,
+                            чай и остальные бесплатные услуги хостела.
+                        </p>
+                        <span>950 руб/сутки</span>
+                        <p class="price">950 руб/сутки</p>
+                        <button type="button" name="button" data-izimodal-open="modal2">ЗАБРОНИРОВАТЬ МЕСТО</button>
+                    </div>
+                </div>
+            </div>
+            <div class="hostel-bed">
+                <h2>Спальное место</h2>
+                <img src="images/bed.jpg" alt="Спальное место" class="big-sleep"/>
+                <div class="sleep">
+                    <img src="images/bed%20crop2.jpg" alt="Спальное место"/>
+                    <div class="sleep-discr">
+                        <p>1. Ортопедические матрасы</p>
+                        <p>2. Отдельные шторы</p>
+                        <p>3. Розетки</p>
+                        <p>4. Cветильники у каждой кровати</p>
+                        <p>5. Выдвижные шкафчики</p>
+                        <p>6. Вешалки для одежды</p>
+                    </div>
+                </div>
+            </div>
+            <div class="hostel-photos">
+                <h2>Фотографии хостела</h2>
+                <div class="hostel-photos__gallery">
+                    <div><img src="images/hostel_photos/photo1.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo2.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo3.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo4.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo5.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo6.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo7.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo8.jpg" alt="" /></div>
+                    <div><img src="images/hostel_photos/photo9.jpg" alt="" /></div>
+                </div>
+                <!-- Start WOWSlider.com BODY section -->
+                <div id="wowslider-container1">
+                    <div class="ws_images">
+                        <ul>
+                            <li><img src="data1/images/photo1.jpg" alt="photo1" title="" id="wows1_0"/></li>
+                            <li><img src="data1/images/photo2.jpg" alt="photo2" title="" id="wows1_1"/></li>
+                            <li><img src="data1/images/photo3.jpg" alt="photo3" title="" id="wows1_2"/></li>
+                            <li><img src="data1/images/photo4.jpg" alt="photo4" title="" id="wows1_3"/></li>
+                            <li><img src="data1/images/photo5.jpg" alt="photo5" title="" id="wows1_4"/></li>
+                            <li><img src="data1/images/photo6.jpg" alt="photo6" title="" id="wows1_5"/></li>
+                            <li><img src="data1/images/photo7.jpg" alt="photo7" title="" id="wows1_6"/></li>
+                            <li><img src="data1/images/photo8.jpg" alt="photo8" title="" id="wows1_7"/></li>
+                            <li><img src="data1/images/photo9.jpg" alt="photo9" title="" id="wows1_8"/></li>
+                        </ul>
+                    </div>
+                    <div class="ws_bullets">
+                        <div>
+                            <a href="#" title="photo1"><span><img src="data1/tooltips/photo1.jpg" alt=""/>1</span></a>
+                            <a href="#" title="photo2"><span><img src="data1/tooltips/photo2.jpg" alt=""/>2</span></a>
+                            <a href="#" title="photo3"><span><img src="data1/tooltips/photo3.jpg" alt=""/>3</span></a>
+                            <a href="#" title="photo4"><span><img src="data1/tooltips/photo4.jpg" alt=""/>4</span></a>
+                            <a href="#" title="photo5"><span><img src="data1/tooltips/photo5.jpg" alt=""/>5</span></a>
+                            <a href="#" title="photo6"><span><img src="data1/tooltips/photo6.jpg" alt=""/>6</span></a>
+                            <a href="#" title="photo7"><span><img src="data1/tooltips/photo7.jpg" alt=""/>7</span></a>
+                            <a href="#" title="photo8"><span><img src="data1/tooltips/photo8.jpg" alt=""/>8</span></a>
+                            <a href="#" title="photo9"><span><img src="data1/tooltips/photo9.jpg" alt=""/>9</span></a>
+                        </div>
+                    </div>
+                    <div class="ws_shadow"></div>
+                </div>
+                <script type="text/javascript" src="engine1/wowslider.js"></script>
+                <script type="text/javascript" src="engine1/script.js"></script>
+                <!-- End WOWSlider.com BODY section -->
+            </div>
+            <div class="container concurs">
+                <h2>Участвуйте в конкурсе</h2>
+            </div>
+            <div class="hostel-sofa">
+                <div class="hostel-sofa__content clearfix container">
+                    <img src="images/sofa.jpg" alt="Старинный диван" class="block-sofa col-md-8 col-xs-12"/>
+                    <div class="block-insta col-md-4 col-xs-12">
+                        <h3>Insta-Диван</h3>
+                        <p>
+                            Каждый участник конкурса имеет шанс остановиться у нас
+                            <span>со скидкой 50% в течение трех дней!</span>
+                        </p>
+                        <p>
+                            Сфотографируйтесь на нашем старинном диване, который стоит в
+                            гостинной, и пришлите нам фотографию.
+                        </p>
+                        <p>
+                            Следите за информацие в социальных сетях!
+                        </p>
+                        <a target="_blank" href="https://vk.com/kakbyhotel"><i class="fa fa-vk fa-3x"></i></a> &nbsp; &nbsp; &nbsp;
+                        <a target="_blank" href="https://www.instagram.com/kakbyhotel/"><i class="fa fa-instagram fa-3x"></i></a>
+                    </div>
+                    <div class="new-sofa col-xs-12">
+                        <img src="images/sofa.jpg" alt="Старинный диван" class=""/>
+                    </div>
+                </div>
+            </div>
+            <div class="hostel-replies container">
+                <h2>Отзывы</h2>
+                <div class="hostel-replies__content">
+                    <div>
+                        <div>
+                            <img src="images/p-1.png" alt="Фото один" />
+                        </div>
+                        <h4>Лидия Cмирнова</h4>
+                        <p>
+                            Понравилось всё. Более того, побывав в этом месте, понимаешь,
+                            что вряд ли в следующий раз будешь искать новый! Плюсы: свежий
+                            ремонт, к интерьеру подошли со вкусом. Для тех, кто хочет
+                            подышать или покурить, всегда открыты балконы! Чистота,
+                            входные двери всегда закрываются на замок, везде стоят камеры,
+                            что не может не радовать бесспорно! Очень удобные спальные места,
+                            словно отдельная комната со шторками. Поэтому даже в 4-местной
+                            комнате было ощущение уединенности.
+                        </p>
+                        <span><a href="http://vk.com/smirnovalido">vk.com/smirnovalido</a></span>
+                    </div>
+                    <div>
+                        <div>
+                            <img src="images/p-3.png" alt="Фото два" />
+                        </div>
+                        <h4>Микаэль Алексанян</h4>
+                        <p>
+                            Хостел понравился своим комфортом и гостеприимством администрации.
+                            Очень удобное расположение. Рядом центр и парк. Приятно было гостить
+                            в хостеле со свежим и современным ремонтом. Всем рекомендую).
+                        </p>
+                        <span><a href="http://vk.com/jimmyheat">vk.com/jimmyheat</a></span>
+                    </div>
+                    <div>
+                        <div>
+                            <img src="images/p-2.png" alt="Фото три" />
+                        </div>
+                        <h4>Максим Ракицкий</h4>
+                        <p>
+                            Остановился в хостеле на неделю, в Крыму был по работе.
+                            Уровень заведения -высочайший, можно сказать, отель. Всего
+                            в здании - 3 этажа, на каждом этаже есть санузел с душем и
+                            туалетом и бойлером (горячая вода будет всегда). На первом этаже -
+                            уютный 8-местный номер (размещался именно там), на втором -
+                            гостиная с кухней и телевизором, на третьем - два 4-местных номера.
+                        </p>
+                        
+                        <span><a href="http://vk.com/simonsimonich">vk.com/simonsimonich</a></span>
+                    </div>
+                </div>
+                <div class="cd-testimonials-wrapper cd-container container">
+                    <ul class="cd-testimonials">
+                        <li>
+                            <div class="cd-author col-md-4">
+                                <img src="images/p-1.png" alt="Фото один" />
+                            </div>
+                            <div class="autor-txt col-md-8">
+                                <ul class="cd-author-info">
+                                    <li class="autor-id">Лидия Cмирнова</li>
+                                    <li class="article-slide">Понравилось всё. Более того, побывав в этом месте, понимаешь,
+                            что вряд ли в следующий раз будешь искать новый! Плюсы: свежий
+                            ремонт, к интерьеру подошли со вкусом. Для тех, кто хочет
+                            подышать или покурить, всегда открыты балконы! Чистота,
+                            входные двери всегда закрываются на замок, везде стоят камеры,
+                            что не может не радовать бесспорно! Очень удобные спальные места,
+                            словно отдельная комната со шторками. Поэтому даже в 4-местной
+                            комнате было ощущение уединенности.</li>
+                                    <article><li class="article">Понравилось всё. Более того, побывав в этом месте, понимаешь,
+                            что вряд ли в следующий раз будешь искать новый! Плюсы: свежий
+                            ремонт, к интерьеру подошли со вкусом. Для тех, кто хочет
+                            подышать или покурить, всегда открыты балконы! Чистота,
+                            входные двери всегда закрываются на замок, везде стоят камеры,
+                            что не может не радовать бесспорно! Очень удобные спальные места,
+                            словно отдельная комната со шторками. Поэтому даже в 4-местной
+                            комнате было ощущение уединенности.</li>
+                                    <li class="link"><a href="http://vk.com/smirnovalido">vk.com/smirnovalido</a></li></article>
+                                </ul>                           
+                            </div>
+                        </li>            
+                    
+                        <li>
+                            <div class="cd-author col-md-4">
+                                <img src="images/p-2.png" alt="Фото три" />
+                            </div>
+                            <div class="autor-txt col-md-8">
+                                <ul class="cd-author-info">
+                                    <li class="autor-id">Максим Ракицкий</li>
+                                    <li class="article-slide">Остановился в хостеле на неделю, в Крыму был по работе. Уровень заведения -высочайший, можно сказать, отель. Всего в здании - 3 этажа, на каждом этаже есть санузел с душем и туалетом и бойлером (горячая вода будет всегда). На первом этаже - уютный 8-местный номер (размещался именно там), на втором - гостиная с кухней и телевизором, на третьем - два 4-местных номера.</li>
+                                    <article><li class="article">Остановился в хостеле на неделю, в Крыму был по работе. Уровень заведения -высочайший, можно сказать, отель. Всего в здании - 3 этажа, на каждом этаже есть санузел с душем и туалетом и бойлером (горячая вода будет всегда). На первом этаже - уютный 8-местный номер (размещался именно там), на втором - гостиная с кухней и телевизором, на третьем - два 4-местных номера.</li>
+                                    <li class="link"><a href="http://vk.com/simonsimonich">vk.com/simonsimonich</a></li></article>
+                                </ul>                           
+                            </div>
+                        </li>
+                        
+                        <li>
+                            <div class="cd-author col-md-4">
+                                <img src="images/p-3.png" alt="Фото два" />
+                            </div>
+                            <div class="autor-txt col-md-8">
+                                <ul class="cd-author-info">
+                                    <li class="autor-id">Микаэль Алексанян</li>
+                                    <li class="article-slide">Хостел понравился своим комфортом и гостеприимством администрации. Очень удобное расположение. Рядом центр и парк. Приятно было гостить в хостеле со свежим и современным ремонтом. Всем рекомендую)</li>
+                                    <article><li class="article">Хостел понравился своим комфортом и гостеприимством администрации. Очень удобное расположение. Рядом центр и парк. Приятно было гостить в хостеле со свежим и современным ремонтом. Всем рекомендую).</li>
+                                    <li class="link"><a href="http://vk.com/simonsimonich">vk.com/simonsimonich</a></li></article>
+                                </ul> 
+                            </div>
+                        </li>
+                    </ul>
+  <div class="clear"></div>
+                    <!-- cd-testimonials -->
+                </div>
+                  <div class="clear"></div>
+                <!-- cd-testimonials-wrapper -->
+                <script src="slider/js/jquery-2.1.1.js"></script>
+                <script src="slider/js/masonry.pkgd.min.js"></script>
+                <script src="slider/js/jquery.flexslider-min.js"></script>
+                <script src="slider/js/main.js"></script>
+            </div>
+            
+                    <div class="clear"></div>            
+            <footer class="container">
+                <div class="map col-md-7 col-xs-12">
+                        <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=OtSYKWeT1xQ7fLngyCQkJTYYxJGERcDx&amp;width=100%&amp;height=467&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
+                
+                </div>
+                <div class="footer_contacts col-md-5 col-xs-12">
+                    <div>
+                        <button type="button" name="button" data-bind="click: sentData">ЗАБРОНИРОВАТЬ МЕСТО</button><br>
+                        <table>
+                            <tr>
+                                <td><i class="fa fa-home fa-2x" aria-hidden="true"></i></td>
+                                <td>г.Симферополь, &nbsp; ул.Тургенева, &nbsp; дом 4</td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-phone fa-2x" aria-hidden="true"></i></td>
+                                <td>8-978-060-54-60</td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-vk fa-2x"></i></td>
+                                <td><a target="_blank" href="https://vk.com/kakbyhotel">Вступайте в Нашу группу VK</a></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-instagram fa-2x"></i></td>
+                                <td><a target="_blank" href="https://www.instagram.com/kakbyhotel/">Подписывайся в Instagram</a></td>
+                            </tr>
+                        </table>
+<!--
+                        <input type="text" name="nameField" value="" placeholder="Имя" data-bind="value: fields().nameField, css: { empty_field: fieldStatus.nameField }, click: returnDefaultField"> <br>
+                        <input type="text" name="phoneField" value="" placeholder="Телефон" data-bind="value: fields().phoneField, css: { empty_field: fieldStatus.phoneField }, click: returnDefaultField"> <br>
+-->
+
+                        <a target="_blank" href="http://origami24.ru"><img src="images/logo_origami.png" alt="Лого оригами" /></a>
+                    </div>
+                </div>
+            </footer>
+            <div id="modal" class="iziModal" data-izimodal-title="Ваше сообщение отправлено!"></div>
+            <div id="modal2" class="iziModal" data-izimodal-title="Забронируйте место">
+                <div class="orderModule" style="margin: 0px;">
+                    <iframe id="my-iframe-id" style="border: 0"src="http://kakbyhotel-book.otelms.com/bookit/step1?inline=true"width="100%" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+	<script src="js/readmore.js"></script>
+	<script>
+		$('article').readmore({
+			maxHeight: 120,
+             speed: 200,
+			moreLink: '<a href="#">Подробнее</a>',
+			lessLink: '<a href="#">Скрыть</a>'
+		});
+	</script>
+
+
+<script type="text/javascript" src="http://pcvector.net/templates/pcv/js/pcvector.js"></script>       
+        
+        
+        
+        
+    </body>
+</html>

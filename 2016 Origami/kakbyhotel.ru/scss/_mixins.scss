@@ -1,0 +1,8 @@
+@mixin header2($margin) {
+  h2 {
+    font-family: 'Museo Cyrl', sans-serif;
+    font-size: 2.5rem;
+    margin: $margin 0;
+    text-align: center;
+  }
+}

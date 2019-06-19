@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Myriad'; 
+    src: url('../fonts/Myriad_pro_regular.otf');
+}
+
+@font-face {
+    font-family: 'Cambria'; 
+    src: url('../fonts/cambria.ttf');
+}
+
+
+.tagline h1,
+.serviceslist li,
+h2, h3 {
+    font-family: 'Myriad', 'Times New Roman', serif;
+    text-transform: none;
+}
+
+.aboutcopy p {
+    font-family: 'Cambria', 'Times New Roman', serif;
+    text-transform: none;
+}
+
+.span4-logo {
+    text-align: center;
+    width: 100% !important;
+}
+
+div.logo {
+    margin: 0 auto;
+    padding-top: 1%;
+    width: 15%;
+}
+
+a#contacttwittericon {
+    width: 100%;
+}
+
+.social_wrapper {
+    width: inherit;
+}
